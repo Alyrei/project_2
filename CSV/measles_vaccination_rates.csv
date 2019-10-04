@@ -1,0 +1,345 @@
+,LOCATION,TIME,Value
+0,Australia,2011,94
+1,Australia,2012,94
+2,Australia,2013,94
+3,Australia,2014,94
+4,Australia,2015,95
+5,Australia,2016,95
+6,Australia,2017,95
+7,Austria,2011,84
+8,Austria,2012,88
+9,Austria,2013,92
+10,Austria,2014,96
+11,Austria,2015,96
+12,Austria,2016,95
+13,Austria,2017,96
+14,Austria,2018,95
+15,Belgium,2011,95
+16,Belgium,2012,96
+17,Belgium,2013,96
+18,Belgium,2014,96
+19,Belgium,2015,96
+20,Belgium,2016,96
+21,Belgium,2017,96
+22,Belgium,2018,96
+23,Canada,2011,88
+24,Canada,2012,98
+25,Canada,2013,90
+26,Canada,2014,90
+27,Canada,2015,90
+28,Canada,2016,90
+29,Canada,2017,89
+30,Canada,2018,90
+31,Czech Republic,2011,98
+32,Czech Republic,2012,98
+33,Czech Republic,2013,99
+34,Czech Republic,2014,99
+35,Czech Republic,2015,99
+36,Czech Republic,2016,98
+37,Czech Republic,2017,97
+38,Czech Republic,2018,96
+39,Denmark,2011,87
+40,Denmark,2012,90
+41,Denmark,2013,89
+42,Denmark,2014,90
+43,Denmark,2015,91
+44,Denmark,2016,94
+45,Denmark,2017,97
+46,Denmark,2018,95
+47,Finland,2011,97
+48,Finland,2012,97
+49,Finland,2013,97
+50,Finland,2014,97
+51,Finland,2015,95
+52,Finland,2016,95
+53,Finland,2017,96
+54,Finland,2018,96
+55,France,2011,89
+56,France,2012,91
+57,France,2013,90
+58,France,2014,91
+59,France,2015,91
+60,France,2016,90
+61,France,2017,90
+62,Germany,2011,96
+63,Germany,2012,97
+64,Germany,2013,97
+65,Germany,2014,97
+66,Germany,2015,97
+67,Germany,2016,97
+68,Germany,2017,97
+69,Greece,2011,99
+70,Greece,2012,99
+71,Greece,2013,99
+72,Greece,2014,97
+73,Greece,2015,97
+74,Greece,2016,97
+75,Greece,2017,97
+76,Greece,2018,97
+77,Hungary,2011,99
+78,Hungary,2012,99
+79,Hungary,2013,99
+80,Hungary,2014,99
+81,Hungary,2015,99
+82,Hungary,2016,99
+83,Hungary,2017,99
+84,Hungary,2018,99
+85,Iceland,2011,94
+86,Iceland,2012,90
+87,Iceland,2013,91
+88,Iceland,2014,90
+89,Iceland,2015,93
+90,Iceland,2016,91
+91,Iceland,2017,92
+92,Iceland,2018,93
+93,Ireland,2011,92
+94,Ireland,2012,92
+95,Ireland,2013,92
+96,Ireland,2014,93
+97,Ireland,2015,93
+98,Ireland,2016,92
+99,Ireland,2017,92
+100,Ireland,2018,92
+101,Italy,2011,90
+102,Italy,2012,90
+103,Italy,2013,90
+104,Italy,2014,87
+105,Italy,2015,85
+106,Italy,2016,85
+107,Italy,2017,92
+108,Italy,2018,93
+109,Japan,2011,94
+110,Japan,2012,96
+111,Japan,2013,95
+112,Japan,2014,98
+113,Japan,2015,96
+114,Japan,2016,96
+115,Japan,2017,99
+116,Japan,2018,97
+117,Korea,2011,99
+118,Korea,2012,99
+119,Korea,2013,99
+120,Korea,2014,99
+121,Korea,2015,98
+122,Korea,2016,98
+123,Korea,2017,97
+124,Korea,2018,98
+125,Luxembourg,2011,96
+126,Luxembourg,2012,99
+127,Luxembourg,2013,99
+128,Luxembourg,2014,99
+129,Luxembourg,2015,99
+130,Luxembourg,2016,99
+131,Luxembourg,2017,99
+132,Mexico,2011,98
+133,Mexico,2012,99
+134,Mexico,2013,89
+135,Mexico,2014,98
+136,Mexico,2015,99
+137,Mexico,2016,97
+138,Mexico,2017,76
+139,Mexico,2018,97
+140,Netherlands,2011,96
+141,Netherlands,2012,96
+142,Netherlands,2013,96
+143,Netherlands,2014,96
+144,Netherlands,2015,95
+145,Netherlands,2016,94
+146,Netherlands,2017,93
+147,Netherlands,2018,93
+148,New Zealand,2011,93
+149,New Zealand,2012,92
+150,New Zealand,2013,92
+151,New Zealand,2014,93
+152,New Zealand,2015,93
+153,New Zealand,2016,92
+154,New Zealand,2017,93
+155,New Zealand,2018,92
+156,Norway,2011,93
+157,Norway,2012,94
+158,Norway,2013,93
+159,Norway,2014,94
+160,Norway,2015,95
+161,Norway,2016,96
+162,Norway,2017,96
+163,Norway,2018,96
+164,Poland,2011,98
+165,Poland,2012,98
+166,Poland,2013,98
+167,Poland,2014,97
+168,Poland,2015,96
+169,Poland,2016,96
+170,Poland,2017,94
+171,Poland,2018,93
+172,Portugal,2011,97
+173,Portugal,2012,97
+174,Portugal,2013,98
+175,Portugal,2014,98
+176,Portugal,2015,98
+177,Portugal,2016,98
+178,Portugal,2017,98
+179,Portugal,2018,99
+180,Slovak Republic,2011,98
+181,Slovak Republic,2012,99
+182,Slovak Republic,2013,98
+183,Slovak Republic,2014,97
+184,Slovak Republic,2015,95
+185,Slovak Republic,2016,95
+186,Slovak Republic,2017,96
+187,Slovak Republic,2018,96
+188,Spain,2011,97
+189,Spain,2012,97
+190,Spain,2013,95
+191,Spain,2014,96
+192,Spain,2015,96
+193,Spain,2016,97
+194,Spain,2017,97
+195,Spain,2018,97
+196,Sweden,2011,96
+197,Sweden,2012,97
+198,Sweden,2013,97
+199,Sweden,2014,97
+200,Sweden,2015,98
+201,Sweden,2016,97
+202,Sweden,2017,97
+203,Sweden,2018,97
+204,Switzerland,2011,93
+205,Switzerland,2012,93
+206,Switzerland,2013,93
+207,Switzerland,2014,94
+208,Switzerland,2015,94
+209,Switzerland,2016,94
+210,Switzerland,2017,95
+211,Turkey,2011,98
+212,Turkey,2012,96
+213,Turkey,2013,98
+214,Turkey,2014,94
+215,Turkey,2015,97
+216,Turkey,2016,98
+217,Turkey,2017,96
+218,United Kingdom,2011,90
+219,United Kingdom,2012,92
+220,United Kingdom,2013,93
+221,United Kingdom,2014,93
+222,United Kingdom,2015,93
+223,United Kingdom,2016,92
+224,United Kingdom,2017,92
+225,United Kingdom,2018,92
+226,USA,2011,92
+227,USA,2012,91
+228,USA,2013,92
+229,USA,2014,92
+230,USA,2015,92
+231,USA,2016,92
+232,USA,2017,92
+233,USA,2018,92
+234,Brazil,2011,99
+235,Brazil,2012,99
+236,Brazil,2013,99
+237,Brazil,2014,99
+238,Brazil,2015,96
+239,Brazil,2016,95
+240,Brazil,2017,97
+241,Brazil,2018,84
+242,Chile,2011,91
+243,Chile,2012,90
+244,Chile,2013,90
+245,Chile,2014,97
+246,Chile,2015,96
+247,Chile,2016,93
+248,Chile,2017,93
+249,Chile,2018,93
+250,China,2011,99
+251,China,2012,99
+252,China,2013,99
+253,China,2014,99
+254,China,2015,99
+255,China,2016,99
+256,China,2017,99
+257,China,2018,99
+258,Estonia,2011,94
+259,Estonia,2012,94
+260,Estonia,2013,94
+261,Estonia,2014,93
+262,Estonia,2015,93
+263,Estonia,2016,93
+264,Estonia,2017,93
+265,Estonia,2018,87
+266,India,2011,84
+267,India,2012,83
+268,India,2013,83
+269,India,2014,85
+270,India,2015,87
+271,India,2016,88
+272,India,2017,90
+273,India,2018,84
+274,Indonesia,2011,89
+275,Indonesia,2012,84
+276,Indonesia,2013,89
+277,Indonesia,2014,95
+278,Indonesia,2015,87
+279,Indonesia,2016,88
+280,Indonesia,2017,90
+281,Indonesia,2018,78
+282,Israel,2011,97
+283,Israel,2012,96
+284,Israel,2013,98
+285,Israel,2014,97
+286,Israel,2015,98
+287,Israel,2016,97
+288,Israel,2017,98
+289,Russia,2011,98
+290,Russia,2012,98
+291,Russia,2013,98
+292,Russia,2014,98
+293,Russia,2015,98
+294,Russia,2016,98
+295,Russia,2017,98
+296,Russia,2018,98
+297,Slovenia,2011,96
+298,Slovenia,2012,95
+299,Slovenia,2013,94
+300,Slovenia,2014,94
+301,Slovenia,2015,94
+302,Slovenia,2016,92
+303,Slovenia,2017,93
+304,Slovenia,2018,93
+305,South Africa,2011,89
+306,South Africa,2012,89
+307,South Africa,2013,87
+308,South Africa,2014,92
+309,South Africa,2015,97
+310,South Africa,2016,96
+311,South Africa,2017,81
+312,South Africa,2018,81
+313,Columbia,2011,88
+314,Columbia,2012,94
+315,Columbia,2013,92
+316,Columbia,2014,91
+317,Columbia,2015,94
+318,Columbia,2016,93
+319,Columbia,2017,93
+320,Costa Rica,2011,83
+321,Costa Rica,2012,90
+322,Costa Rica,2013,91
+323,Costa Rica,2014,95
+324,Costa Rica,2015,93
+325,Costa Rica,2016,93
+326,Costa Rica,2017,96
+327,Costa Rica,2018,94
+328,Latvia,2011,92
+329,Latvia,2012,90
+330,Latvia,2013,96
+331,Latvia,2014,95
+332,Latvia,2015,96
+333,Latvia,2016,93
+334,Latvia,2017,96
+335,Latvia,2018,98
+336,Lithuania,2011,94
+337,Lithuania,2012,93
+338,Lithuania,2013,93
+339,Lithuania,2014,93
+340,Lithuania,2015,94
+341,Lithuania,2016,94
+342,Lithuania,2017,94
+343,Lithuania,2018,92
